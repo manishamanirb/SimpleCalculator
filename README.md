@@ -1,10 +1,10 @@
 Simple Calculator
 
-Project Description
+Project Description :
 
 This project is a command-line calculator developed using Python as part of the CodeOrbit Tech Python Programming Internship.
 
-Features
+Features :
 
 - Addition
 - Subtraction
@@ -13,12 +13,12 @@ Features
 - Handles invalid number inputs
 - Prevents division by zero
 
-Technologies Used
+Technologies Used :
 
 - Python 3
 - Visual Studio Code
 
-How to Run
+How to Run :
 
 1. Install Python 3.
 2. Download or clone this repository.
@@ -26,7 +26,7 @@ How to Run
 4. Run "calculator.py".
 5. Enter two numbers and select an arithmetic operation.
 
-Concepts Used
+Concepts Used :
 
 - User input and output
 - Conditional statements
