@@ -33,7 +33,8 @@ Concepts Used :
 - Exception handling
 - Arithmetic operators
 
-GitHub repository link :
+GitHub repository link :https://github.com/manishamanirb/SimpleCalculator
+
 Internship
 
 Organization: CodeOrbit Tech
